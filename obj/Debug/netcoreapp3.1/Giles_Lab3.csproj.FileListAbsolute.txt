@@ -1,0 +1,16 @@
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\Giles_Lab3\bin\Debug\netcoreapp3.1\Giles_Lab3.exe
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\Giles_Lab3\bin\Debug\netcoreapp3.1\Giles_Lab3.deps.json
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\Giles_Lab3\bin\Debug\netcoreapp3.1\Giles_Lab3.runtimeconfig.json
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\Giles_Lab3\bin\Debug\netcoreapp3.1\Giles_Lab3.runtimeconfig.dev.json
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\Giles_Lab3\bin\Debug\netcoreapp3.1\Giles_Lab3.dll
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\Giles_Lab3\bin\Debug\netcoreapp3.1\Giles_Lab3.pdb
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\Giles_Lab3\obj\Debug\netcoreapp3.1\Giles_Lab3.csproj.AssemblyReference.cache
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\Giles_Lab3\obj\Debug\netcoreapp3.1\Giles_Lab3.CalculatorForm.resources
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\Giles_Lab3\obj\Debug\netcoreapp3.1\Giles_Lab3.csproj.GenerateResource.cache
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\Giles_Lab3\obj\Debug\netcoreapp3.1\Giles_Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\Giles_Lab3\obj\Debug\netcoreapp3.1\Giles_Lab3.AssemblyInfoInputs.cache
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\Giles_Lab3\obj\Debug\netcoreapp3.1\Giles_Lab3.AssemblyInfo.cs
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\Giles_Lab3\obj\Debug\netcoreapp3.1\Giles_Lab3.csproj.CoreCompileInputs.cache
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\Giles_Lab3\obj\Debug\netcoreapp3.1\Giles_Lab3.dll
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\Giles_Lab3\obj\Debug\netcoreapp3.1\Giles_Lab3.pdb
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\Giles_Lab3\obj\Debug\netcoreapp3.1\Giles_Lab3.genruntimeconfig.cache
